@@ -4,6 +4,6 @@
     <title></title>
 </head>
 <body>
-  404 页面走丢了.
+  404 页面走丢了！
 </body>
 </html>
